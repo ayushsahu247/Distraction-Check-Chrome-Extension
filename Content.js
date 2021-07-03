@@ -1,0 +1,1 @@
+alert("Is this the best use of your time?");
